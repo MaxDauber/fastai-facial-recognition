@@ -1,2 +1,2 @@
 # fastai-facial-recognition
-Code for building custom facial recognition models using FastAI
+Example code for using FastAI to build custom facial recognition models
